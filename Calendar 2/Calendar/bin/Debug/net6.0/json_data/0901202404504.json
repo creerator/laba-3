@@ -1,0 +1,8 @@
+[
+  "\nUsage:\nUse one of commands:\n\u0022check\u0022 to check is year leap\n\u0022calc\u0022 to calc interval length\n\u0022day\u0022 to get the name of day of week\n\u0022quit\u0022 to exit.",
+  "\n----",
+  "\nInput the command: ",
+  "\nsave",
+  "\nchoose format: json, xml, sql",
+  "\njson"
+]

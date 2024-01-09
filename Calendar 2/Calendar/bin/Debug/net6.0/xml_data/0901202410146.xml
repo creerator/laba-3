@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><string>
+Usage:
+Use one of commands:
+"check" to check is year leap
+"calc" to calc interval length
+"day" to get the name of day of week
+"quit" to exit.</string><string>
+----</string><string>
+Input the command: </string><string>
+save</string><string>
+choose format: json, xml, sql</string><string>
+xml</string></ArrayOfString>
